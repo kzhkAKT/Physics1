@@ -16,6 +16,7 @@
 
 <!-- 現在[5月14日(木)時点]2020年度のシラバスに従って順次作成しています -->
 
+<!-- 2025/01/31 Google term changeed
 ---
 
 携帯端末で閲覧した場合は 手順1 の前に,   
@@ -58,4 +59,5 @@
 
 [シラバス 物理Ⅰ(2B)](https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=08&department_id=11&subject_id=0036&year=2019&lang=ja)
 
+-->
 
