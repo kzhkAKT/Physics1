@@ -1,0 +1,69 @@
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/10001_Introduction_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11010_%E9%80%9F%E3%81%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11020_%E9%80%9F%E5%BA%A6%E3%81%A8%E5%A4%89%E4%BD%8D_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11030_%E5%B9%B3%E5%9D%87%E3%81%AE%E9%80%9F%E5%BA%A6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11040_%E7%9E%AC%E9%96%93%E3%81%AE%E9%80%9F%E5%BA%A6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11050_%E5%8A%A0%E9%80%9F%E5%BA%A6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11060_%E7%AD%89%E9%80%9F%E7%9B%B4%E7%B7%9A%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11070_%E7%AD%89%E5%8A%A0%E9%80%9F%E5%BA%A6%E7%9B%B4%E7%B7%9A%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12010_%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12020_%E8%B3%AA%E9%87%8F_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12030_%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC1%E6%B3%95%E5%89%87_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12040_%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC2%E6%B3%95%E5%89%87_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12050_%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC3%E6%B3%95%E5%89%87_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12061_%E9%87%8D%E5%8A%9B%E3%81%A8%E9%87%8D%E5%8A%9B%E5%8A%A0%E9%80%9F%E5%BA%A6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12062_%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12070_%E3%81%B0%E3%81%AD%E3%81%AE%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12081_%E5%9E%82%E7%9B%B4%E6%8A%97%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12082_%E9%9D%99%E6%AD%A2%E6%91%A9%E6%93%A6%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/12083_%E5%8B%95%E6%91%A9%E6%93%A6%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/13010_2%E7%89%A9%E4%BD%93%E3%81%AE%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/13020_%E8%87%AA%E7%94%B1%E8%90%BD%E4%B8%8B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/13030_%E9%89%9B%E7%9B%B4%E6%8A%95%E3%81%92%E4%B8%8A%E3%81%92_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/13040_%E6%91%A9%E6%93%A6%E5%8A%9B%E3%81%8C%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14000_%E5%8A%9B%E7%A9%8D%E3%81%A8%E9%81%8B%E5%8B%95%E9%87%8F_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14010_%E5%8A%9B%E7%A9%8D_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14020_%E9%81%8B%E5%8B%95%E9%87%8F_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14030_%E5%8A%9B%E7%A9%8D%E3%81%A8%E9%81%8B%E5%8B%95%E9%87%8F%E3%81%AE%E5%A4%89%E5%8C%96_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14040_%E9%81%8B%E5%8B%95%E9%87%8F%E4%BF%9D%E5%AD%98%E3%81%AE%E6%B3%95%E5%89%87_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/14050_%E5%8F%8D%E7%99%BA%E4%BF%82%E6%95%B0_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15010_%E4%BB%95%E4%BA%8B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15020_%E4%BB%95%E4%BA%8B%E3%81%A8%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15030_%E9%81%8B%E5%8B%95%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15041_%E9%87%8D%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8B%E4%BD%8D%E7%BD%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15042_%E5%BC%BE%E6%80%A7%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8B%E4%BD%8D%E7%BD%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/15050_%E5%8A%9B%E5%AD%A6%E7%9A%84%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E4%BF%9D%E5%AD%98_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16010_%E9%81%8B%E5%8B%95%E6%96%B9%E7%A8%8B%E5%BC%8F%E3%81%AE%E8%A1%A8%E3%81%97%E6%96%B9_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16020_%E5%8A%9B%E3%81%AE%E8%A1%A8%E3%81%97%E6%96%B9%E3%81%A8%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%81%AE%E6%80%A7%E8%B3%AA_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16030_%E5%8A%9B%E3%81%AE%E5%90%88%E6%88%90_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16040_%E5%8A%9B%E3%81%AE%E5%88%86%E8%A7%A3_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16050_%E9%80%9F%E5%BA%A6%E3%81%AE%E5%90%88%E6%88%90_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16060_%E7%9B%B8%E5%AF%BE%E9%80%9F%E5%BA%A6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16070_%E5%B9%B3%E9%9D%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%81%8B%E5%8B%95%E9%87%8F%E4%BF%9D%E5%AD%98%E3%81%AE%E6%B3%95%E5%89%87_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16080_%E4%BB%95%E4%BA%8B%E3%81%AE%E5%8E%9F%E7%90%86_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16090_%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%AB%E6%8A%95%E3%81%92%E5%87%BA%E3%81%97%E3%81%9F%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16100%E6%96%9C%E3%82%81%E3%81%AB%E6%8A%95%E3%81%92%E3%81%9F%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16111_%E6%96%9C%E9%9D%A2%E3%81%AB%E6%91%A9%E6%93%A6%E3%81%8C%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16112_%E6%96%9C%E9%9D%A2%E3%81%AB%E6%91%A9%E6%93%A6%E3%81%8C%E3%81%82%E3%82%8B%E5%A0%B4%E5%90%88_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16120_%E7%AD%89%E9%80%9F%E5%86%86%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16121_%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16130_%E6%83%91%E6%98%9F%E3%81%AE%E9%81%8B%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16140_%E5%8D%98%E6%8C%AF%E5%8B%95_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16150_%E5%8D%98%E6%8C%AF%E3%82%8A%E5%AD%90_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16160_%E6%85%A3%E6%80%A7%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/16161_%E9%81%A0%E5%BF%83%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/17010_%E5%89%9B%E4%BD%93%E3%81%AB%E5%83%8D%E3%81%8F%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/17011_%E5%89%9B%E4%BD%93%E3%81%AB%E5%83%8D%E3%81%8F%E5%8A%9B_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/17012_%E5%89%9B%E4%BD%93%E3%81%AE%E3%81%A4%E3%82%8A%E5%90%88%E3%81%84%E6%9D%A1%E4%BB%B6_Phys1.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/20001_%E7%AD%89%E5%8A%A0%E9%80%9F%E5%BA%A6%E7%9B%B4%E7%B7%9A%E9%81%8B%E5%8B%95_%E5%89%8D%E6%9C%9F%E5%BE%A9%E7%BF%92.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/20002_%E9%81%8B%E5%8B%95%E6%96%B9%E7%A8%8B%E5%BC%8F_%E5%89%8D%E6%9C%9F%E5%BE%A9%E7%BF%92.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/20003_%E4%BB%95%E4%BA%8B_%E5%89%8D%E6%9C%9F%E5%BE%A9%E7%BF%92.ipynb
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/30000_%E7%89%A9%E7%90%86%E5%AE%9F%E9%A8%932020fyr.ipynb
+
+<!--
+for ipynb in *.ipynb
+do encoded_name=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1])
+)" "$ipynb")
+echo "- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/$encoded_name"
+done 
+>
