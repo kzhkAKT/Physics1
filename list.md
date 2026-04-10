@@ -1,3 +1,4 @@
+- https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/10000_contents_Phys1.ipynb
 - https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/10001_Introduction_Phys1.ipynb
 - https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11010_%E9%80%9F%E3%81%95_Phys1.ipynb
 - https://colab.research.google.com/github/kzhkAKT/Physics1/blob/master/11020_%E9%80%9F%E5%BA%A6%E3%81%A8%E5%A4%89%E4%BD%8D_Phys1.ipynb
